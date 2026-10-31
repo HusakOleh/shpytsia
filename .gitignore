@@ -1,3 +1,6 @@
 .idea/
 node_modules/
 .DS_Store
+
+# Страховка: ключ сервісного акаунта лежить поза репозиторієм (~/.secrets/shpytsia/)
+.secrets/
